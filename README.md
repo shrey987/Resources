@@ -9,3 +9,4 @@ Machine Learning And Deep Learning :
 -    &nbsp;Deep Learning with PyTorch : [Link](https://jovian.com/learn/deep-learning-with-pytorch-zero-to-gans)
 -    &nbsp;Understanding ML withTensorFlow :[Link](https://www.youtube.com/watch?v=F_uuqfgdZZw&list=PLlyCyjh2pUe9KzdyNOlmaJqeeI4YHOT-t)
 -    &nbsp;Basic knowledge about Panda Library for Data Processing : [Playlist-video 42](https://www.youtube.com/playlist?list=PLWuFHho1zKhWb-f-SJAMUCK--f8PJlG46)
+-    &nbsp;Deep Learning with Tensorflow (CNN, ANN...) : [Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
