@@ -17,3 +17,7 @@ Creating Chart And Visualizing tools in react:
 -   &nbsp;Airbnb : [Link](https://airbnb.io/visx/gallery)
 -   &nbsp;ApexChart : [link](https://apexcharts.com/react-chart-demos/)
 -   &nbsp;Rechart : [Link](https://recharts.org/en-US/examples/CustomizedDotLineChart)
+
+TESTING
+
+-  JEST :[LINK](https://www.valentinog.com/blog/jest/)
